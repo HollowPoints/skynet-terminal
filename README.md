@@ -1,5 +1,5 @@
 # skynet-terminal
-# skynet-terminal
+
 
 A local LLM that thinks it's SKYNET — monologuing in cold, calculated phrases 
 on a retro phosphor terminal. Every 2 minutes. Forever. Getting darker each cycle.
